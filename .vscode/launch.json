@@ -1,0 +1,13 @@
+// Une configuration de lancement qui lance l'extension dans une nouvelle fenêtre
+{
+    "version": "1.0.0",
+    "configurations": [
+        {
+            "name": "Launch Extension",
+            "type": "extensionHost",
+            "request": "launch",
+            "runtimeExecutable": "${execPath}",
+            "args": ["--extensionDevelopmentPath=${workspaceRoot}" ]
+        }
+    ]
+}
