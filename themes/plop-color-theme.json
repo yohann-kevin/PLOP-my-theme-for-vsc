@@ -3,8 +3,6 @@
   "colors": {
     "editor.background": "#000000",
     "editor.foreground": "#ffffff",
-    // "editor.selectionBackground": "#0000ff",
-    // "editor.lineHighlightBackground": "#0000ff",
     "editorCursor.foreground": "#ffffff",
     "editorWhitespace.foreground": "#0000ff",
     "tab.activeBackground": "#0000ff",
