@@ -4,8 +4,8 @@
 
 ### objective of the project
 
-I wanted to have a highly contrasting theme without finding one so I decided to create mine.
-the project use json and xml.
+I wanted to have a very contrasting theme without finding one, so I decided to modify an already existing theme.
+the project uses json and xml.
 
 ## preview
 
